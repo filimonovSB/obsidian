@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "bfc3d083ea4047eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfcd3a7a0f4a71b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935461c8b0d41972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Первый файл.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00dd44f78b7f6244",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a74d084b7042c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb4473a254fd392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0ab60da6ec6e8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3d8d2a002569968",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d11920d23e45eedc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ae253971a1d4dde",
+    "type": "split",
+    "children": [
+      {
+        "id": "0691a124c669d77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "823fa0e3bac3539e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Первый файл.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "767a2e9230dff21c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Первый файл.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b176a5ce193fb31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23e47bfe569428a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Первый файл.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "00dd44f78b7f6244",
+  "lastOpenFiles": [
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "2023-06-22.md",
+    "Без названия.canvas",
+    "Второй файл.md",
+    "Первый файл.md"
+  ]
+}

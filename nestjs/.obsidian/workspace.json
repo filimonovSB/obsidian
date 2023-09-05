@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "33b37484e57620b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81b26504e25cca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047821e0caf713cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Контроллеры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b604bf297637b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f33e4b9e686e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd33add9d6a6c77a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c698d1faaa887a6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7ceabb54b430c1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b513a0cafed8e214",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0b5a2dda87cec5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "71e8a82cc1d69b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743c028387b2ebc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b83443263ee7863f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "736bd63c12a97697",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f591f457bfbfe378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e8b604bf297637b5",
+  "lastOpenFiles": [
+    "Разное.md",
+    "Модули.md",
+    "Контроллеры.md",
+    "CLI.md",
+    "images/Pasted image 20230608210213.png",
+    "images/Pasted image 20230608205933.png",
+    "images/Pasted image 20230608205829.png",
+    "images/Pasted image 20230608205740.png",
+    "images",
+    "images/Pasted image 20230608205341.png",
+    "Test.md",
+    "2023-06-08.md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "images.jpg",
+    "images-1.jpg"
+  ]
+}

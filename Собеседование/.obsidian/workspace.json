@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "0d48aee29c41d840",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb558cef19b5533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b769b68beacebaa7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "26738ce15ae53cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все вопросы/js вопросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "607686b74c8f7122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все вопросы/css  вопросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddc478dc87aaa82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d08b9fe5112c7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcfa41adcce487a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "611febb279e5a17f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c2b7e4158886669",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23765061e04c4bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "656800d2f49fdb30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb7e9b8f5959a3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Все вопросы/js вопросы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1384de7447a7999",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Все вопросы/js вопросы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eee204ec8bdc3ee6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "176d87f287d39001",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Все вопросы/js вопросы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "26738ce15ae53cad",
+  "lastOpenFiles": [
+    "Все вопросы/css  вопросы.md",
+    "Все вопросы/js вопросы.md",
+    "Картинки/Pasted image 20230824165925.png",
+    "Картинки",
+    "Картинки/Pasted image 20230824165458.png",
+    "Вопросы, которые нужно повторить",
+    "Все вопросы"
+  ]
+}
